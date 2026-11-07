@@ -3,12 +3,12 @@
     <channel>
         <title>Owlet</title>
         <item>
-            <title>0.34.0</title>
-            <pubDate>Thu, 05 Nov 2026 09:31:06 +0800</pubDate>
-            <sparkle:version>127</sparkle:version>
-            <sparkle:shortVersionString>0.34.0</sparkle:shortVersionString>
+            <title>0.35.0</title>
+            <pubDate>Sun, 08 Nov 2026 04:25:40 +0800</pubDate>
+            <sparkle:version>128</sparkle:version>
+            <sparkle:shortVersionString>0.35.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://updates.zisheng.pro/owlet/Owlet-0.34.0.dmg" length="18897005" type="application/octet-stream" sparkle:edSignature="CrDUF1gBMchqYDjrc3A+o/UqpKkNRdGlWiCbhghXOAPgBUYpPokFbxtCqi9ruuD/pxAu4WR7gj0Jn9ct3EYKAw=="/>
+            <enclosure url="https://updates.zisheng.pro/owlet/Owlet-0.35.0.dmg" length="18917611" type="application/octet-stream" sparkle:edSignature="as03jvI0HcHqlD64O2WCb65WF4Pj9P/lTkpu5cGbJjmvI6FKB8do9hV5J2pvOroaWAND2BvtL8dQ361m5BcPDA=="/>
         </item>
     </channel>
 </rss>
