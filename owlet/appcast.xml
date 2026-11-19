@@ -3,13 +3,13 @@
     <channel>
         <title>Owlet</title>
         <item>
-            <title>0.38.1</title>
-            <pubDate>Thu, 19 Nov 2026 00:08:55 +0800</pubDate>
-            <sparkle:version>138</sparkle:version>
-            <sparkle:shortVersionString>0.38.1</sparkle:shortVersionString>
+            <title>0.38.2</title>
+            <pubDate>Thu, 19 Nov 2026 12:43:55 +0800</pubDate>
+            <sparkle:version>139</sparkle:version>
+            <sparkle:shortVersionString>0.38.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://updates.zisheng.pro/owlet/Owlet-0.38.1.md</sparkle:releaseNotesLink>
-            <enclosure url="https://updates.zisheng.pro/owlet/Owlet-0.38.1.dmg" length="19272408" type="application/octet-stream" sparkle:edSignature="HJmGyUTEPvdeHtGGx3ejWXpWV7GdfIl7rJRCXBWhqMjQ7+KwTOW7vKmeJR6X3h7a+TqqSHZnn8SSi6LvR7zrBw=="/>
+            <sparkle:releaseNotesLink>https://updates.zisheng.pro/owlet/Owlet-0.38.2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://updates.zisheng.pro/owlet/Owlet-0.38.2.dmg" length="18476358" type="application/octet-stream" sparkle:edSignature="LYYFPEqvqm0y71/59XMa1JOHfH3PJxpBRs3w36b6zSwsa86pknyqQYkjkDil5H1LEinw15rgQeFVKypeik2XBw=="/>
         </item>
     </channel>
 </rss>
